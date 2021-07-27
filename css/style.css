@@ -17,7 +17,7 @@
 div.nested {
     background-color: pink;
     text-align: center;
-    font-size: .8em;
+    font-size: .6em;
     height: 200px;
     border: 1px solid black;  
     position: relative;  
@@ -39,4 +39,6 @@ div.contain-text {
     flex-direction: column;
     justify-content: center;
 }
+
+
 
